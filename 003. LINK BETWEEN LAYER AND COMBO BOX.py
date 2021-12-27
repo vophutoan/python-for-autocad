@@ -1,7 +1,7 @@
 #IMPORT THƯ VIỆN
-from tkinter.ttk import *
-from tkinter import *
-from pyautocad import Autocad
+from tkinter.ttk import * #THƯ VIỆN COMBO BOX
+from tkinter import * #THƯ VIỆN CỬA SỔ TKINTER
+from pyautocad import Autocad #THƯ VIỆN AUTOCAD
 
 
 #CODE TẠO CỬA SỔ TKINTER
