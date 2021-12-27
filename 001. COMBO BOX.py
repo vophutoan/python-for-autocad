@@ -1,6 +1,6 @@
 #IMPORT THƯ VIỆN
-from tkinter.ttk import *
-from tkinter import *
+from tkinter.ttk import * #THƯ VIỆN COMBO BOX
+from tkinter import * #THƯ VIỆN CỬA SỔ TKINTER
 
 #CODE TẠO CỬA SỔ TKINTER
 window = Tk()
